@@ -1,0 +1,64 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.header1 img {
+  height: 30px;
+  width: 30px;
+}
+
+.header3 button {
+  background-color: #f5d5a4;
+  padding: 9px 20px;
+  border: none;
+}
+
+.textarea .textfield {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: #f3ece2;
+}
+
+.textarea {
+  margin: 20px 300px;
+}
+
+.textarea p {
+  font-size: 25px;
+}
+
+.downlaodbutton {
+  background-color: black;
+  padding: 12px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+  color: wheat;
+  border-radius: 7px;
+}
+.footer {
+  background-image: linear-gradient(90deg, #f5d5a4 50%, #f3ece2 50%);
+  height: 60px;
+  margin-top: 50px;
+  width: 100%;
+  color: #000000;
+  font-size: 10px;
+}
+.footh2 {
+  display: inline-block;
+  min-width: 230px;
+  font-size: 15px;
+  margin: 20px 0px 20px 50px;
+}
+.footh3 {
+  display: inline-block;
+  font-size: 15px;
+  text-align: center;
+  margin: 20px 0px 20px 330px;
+}
+.footh4 {
+  margin: 20px 0px 20px 400px;
+}

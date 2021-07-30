@@ -1,0 +1,16 @@
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.header1 img {
+  height: 30px;
+  width: 30px;
+}
+
+.header3 button {
+  background-color: #f5d5a4;
+  padding: 9px 20px;
+  border: none;
+}
